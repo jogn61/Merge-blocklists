@@ -58319,6 +58319,7 @@
 ||mafpai.qualtrics.com^
 ||majorasmask3d.qualtrics.com^
 ||www.majorasmask3d.qualtrics.com^
+||manulifehk.qualtrics.com^
 ||marian.qualtrics.com^
 ||marketingresearchgroup.qualtrics.com^
 ||marketinview.qualtrics.com^
@@ -61827,6 +61828,7 @@
 ||img.juicer.io^
 ||staging.juicer.io^
 ||clj.staging.juicer.io^
+||staging-assets.juicer.io^
 ||static.juicer.io^
 ||white-label.juicer.io^
 ||www.juicer.io^
@@ -62538,6 +62540,7 @@
 ||gomoxie.solutions^
 ||25events-nutrisystem.gomoxie.solutions^
 ||asset.gomoxie.solutions^
+||identity-cr-rbcroyalbank.com.gomoxie.solutions^
 ||connector-autotrader.gomoxie.solutions^
 ||connector-bms_opdivo.gomoxie.solutions^
 ||connector-bms_orencia.gomoxie.solutions^
@@ -63383,3 +63386,4 @@
 @@||publish-pic-cpu.baidu.com^
 @@||cnnic.net.cn^
 @@||monitor.dnspod.cn^
+@@||translate.google.com^

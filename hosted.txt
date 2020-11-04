@@ -24881,7 +24881,6 @@
 ||imc.l.qq.com^
 ||img1.sj.qq.com^
 ||info.3g.qq.com^
-||isee.weishi.qq.com^
 ||jpush.html5.qq.com^
 ||jrlt.beacon.qq.com^
 ||jsqmt.qq.com^
@@ -36169,6 +36168,14 @@
 @@||meizu.coapi.moji.com^
 @@||track.cpau.info^
 @@||passport.bobo.com^
+||flagros2sii8fdbrh09.com^
+||showmeyouradsnow.com^
+||eetyed.com^
+||koertf.com^
+||bmcdn1.com^
+||rekodpro.com^
+||pinkpig2le8tt09.com^
+||mfhgehrnafra.com^
 ||madmanbears.com^
 ||watch.publicidadpro.com^
 ||ejirytuw.xyz^
@@ -38389,6 +38396,7 @@
 ||cjvpybdsasarc.com^
 ||cjwjpmudu.com^
 ||ckkrlzxvy.com^
+||consultantsow.com^
 ||contaminatedefendantedifice.com^
 ||contrivancespannercooperate.com^
 ||coroheyjses.com^
@@ -38999,6 +39007,7 @@
 ||manslaughteradministrationalarm.com^
 ||marguvpydbrr.com^
 ||mascqybw.com^
+||massessede.top^
 ||mcfdnvewqws.com^
 ||mcirxbajhw.com^
 ||mdlhzknv.com^
@@ -39171,6 +39180,7 @@
 ||opisumqii.com^
 ||oppressiveinterdependenthumanity.com^
 ||oqiatejmfwelas.com^
+||orrecede.top^
 ||osevrgzpsu.com^
 ||ossdqciz.com^
 ||otfquqgqvsjof.com^
@@ -39418,6 +39428,7 @@
 ||sadsecz.com^
 ||saenrwiqesp.com^
 ||sailznsgbygz.com^
+||saliencege.top^
 ||sardfereose.com^
 ||sawdfbwxqcpcs.com^
 ||sbgftsoe.com^
@@ -39483,6 +39494,7 @@
 ||tremblingkeyboardassistant.com^
 ||turmoilexcessivetranslating.com^
 ||url.rw^
+||ustbitsoct.top^
 ||vanssueshyer.casa^
 ||viebitgreasy.email^
 ||voluumtrk.com^
@@ -41733,6 +41745,7 @@
 ||um-public-panel-prod.s3.amazonaws.com^
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
+||stat.alloha.tv^
 ||counter.web.money^
 ||stat.videonow.ru^
 ||insight.bellmetric.net^
@@ -42887,6 +42900,7 @@
 ||counter.top.ge^
 ||counter.yadro.ru^
 ||d.shareaholic.com^
+||d1wirc5qsdb1y5.cloudfront.net^
 ||||d241ujsiy3yht0.cloudfront.net^
 ||data.gosquared.com^
 ||data.marketgid.com^
@@ -43420,6 +43434,7 @@
 ||tutonovip.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
+||trofvido.com^
 ||extrablocks.ru^
 ||mpsuadv.ru^
 ||tut.prosmotrov.net^
@@ -49283,6 +49298,7 @@
 ||sacchaeleduk.com^
 ||smilitygorb.club^
 ||ucesreferre.club^
+||wo19.top^
 ||02123s.com^
 ||080644.com^
 ||||111.175.219.*.js^
@@ -49734,6 +49750,11 @@
 ||soonyou123.com^
 ||liyueao.top^
 ||||s1-a1.dnvodcdn.me^*.svg^
+||hxsjxw.cn^
+||amghvzn.cn^
+||b2b5.net^
+||haiyinsiwang.com^
+||xixizaix.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||0302woeuxcbrnxcvsdfghu.xyz^

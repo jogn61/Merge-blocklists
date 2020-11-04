@@ -24881,7 +24881,6 @@
 0.0.0.0 imc.l.qq.com
 0.0.0.0 img1.sj.qq.com
 0.0.0.0 info.3g.qq.com
-0.0.0.0 isee.weishi.qq.com
 0.0.0.0 jpush.html5.qq.com
 0.0.0.0 jrlt.beacon.qq.com
 0.0.0.0 jsqmt.qq.com
@@ -36129,6 +36128,14 @@
 0.0.0.0 zzwpsm.cn
 0.0.0.0 zzxlukodff.com
 0.0.0.0 zzyonghao.com
+0.0.0.0 flagros2sii8fdbrh09.com
+0.0.0.0 showmeyouradsnow.com
+0.0.0.0 eetyed.com
+0.0.0.0 koertf.com
+0.0.0.0 bmcdn1.com
+0.0.0.0 rekodpro.com
+0.0.0.0 pinkpig2le8tt09.com
+0.0.0.0 mfhgehrnafra.com
 0.0.0.0 madmanbears.com
 0.0.0.0 watch.publicidadpro.com
 0.0.0.0 ejirytuw.xyz
@@ -38349,6 +38356,7 @@
 0.0.0.0 cjvpybdsasarc.com
 0.0.0.0 cjwjpmudu.com
 0.0.0.0 ckkrlzxvy.com
+0.0.0.0 consultantsow.com
 0.0.0.0 contaminatedefendantedifice.com
 0.0.0.0 contrivancespannercooperate.com
 0.0.0.0 coroheyjses.com
@@ -38959,6 +38967,7 @@
 0.0.0.0 manslaughteradministrationalarm.com
 0.0.0.0 marguvpydbrr.com
 0.0.0.0 mascqybw.com
+0.0.0.0 massessede.top
 0.0.0.0 mcfdnvewqws.com
 0.0.0.0 mcirxbajhw.com
 0.0.0.0 mdlhzknv.com
@@ -39131,6 +39140,7 @@
 0.0.0.0 opisumqii.com
 0.0.0.0 oppressiveinterdependenthumanity.com
 0.0.0.0 oqiatejmfwelas.com
+0.0.0.0 orrecede.top
 0.0.0.0 osevrgzpsu.com
 0.0.0.0 ossdqciz.com
 0.0.0.0 otfquqgqvsjof.com
@@ -39378,6 +39388,7 @@
 0.0.0.0 sadsecz.com
 0.0.0.0 saenrwiqesp.com
 0.0.0.0 sailznsgbygz.com
+0.0.0.0 saliencege.top
 0.0.0.0 sardfereose.com
 0.0.0.0 sawdfbwxqcpcs.com
 0.0.0.0 sbgftsoe.com
@@ -39443,6 +39454,7 @@
 0.0.0.0 tremblingkeyboardassistant.com
 0.0.0.0 turmoilexcessivetranslating.com
 0.0.0.0 url.rw
+0.0.0.0 ustbitsoct.top
 0.0.0.0 vanssueshyer.casa
 0.0.0.0 viebitgreasy.email
 0.0.0.0 voluumtrk.com
@@ -41693,6 +41705,7 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 stat.alloha.tv
 0.0.0.0 counter.web.money
 0.0.0.0 stat.videonow.ru
 0.0.0.0 insight.bellmetric.net
@@ -42847,6 +42860,7 @@
 0.0.0.0 counter.top.ge
 0.0.0.0 counter.yadro.ru
 0.0.0.0 d.shareaholic.com
+0.0.0.0 d1wirc5qsdb1y5.cloudfront.net
 0.0.0.0 ||d241ujsiy3yht0.cloudfront.net
 0.0.0.0 data.gosquared.com
 0.0.0.0 data.marketgid.com
@@ -43380,6 +43394,7 @@
 0.0.0.0 tutonovip.com
 0.0.0.0 xclk-integracion.com
 0.0.0.0 yestorrents.org
+0.0.0.0 trofvido.com
 0.0.0.0 extrablocks.ru
 0.0.0.0 mpsuadv.ru
 0.0.0.0 tut.prosmotrov.net
@@ -49243,6 +49258,7 @@
 0.0.0.0 sacchaeleduk.com
 0.0.0.0 smilitygorb.club
 0.0.0.0 ucesreferre.club
+0.0.0.0 wo19.top
 0.0.0.0 02123s.com
 0.0.0.0 080644.com
 0.0.0.0 ||111.175.219.*.js
@@ -49676,6 +49692,11 @@
 0.0.0.0 soonyou123.com
 0.0.0.0 liyueao.top
 0.0.0.0 ||s1-a1.dnvodcdn.me^*.svg
+0.0.0.0 hxsjxw.cn
+0.0.0.0 amghvzn.cn
+0.0.0.0 b2b5.net
+0.0.0.0 haiyinsiwang.com
+0.0.0.0 xixizaix.cn
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
 0.0.0.0 0302woeuxcbrnxcvsdfghu.xyz

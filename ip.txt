@@ -35561,7 +35561,6 @@
 0.0.0.0 pic.zol-img.com.cn
 0.0.0.0 api.zol.com
 0.0.0.0 apppv.zol.com.cn
-0.0.0.0 direct.wap.zol.com.cn
 0.0.0.0 imp.zol.com.cn
 0.0.0.0 p.zol.com.cn
 0.0.0.0 pvnapp.zol.com.cn

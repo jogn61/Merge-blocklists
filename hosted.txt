@@ -35561,7 +35561,6 @@
 ||pic.zol-img.com.cn^
 ||api.zol.com^
 ||apppv.zol.com.cn^
-||direct.wap.zol.com.cn^
 ||imp.zol.com.cn^
 ||p.zol.com.cn^
 ||pvnapp.zol.com.cn^

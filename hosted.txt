@@ -36168,6 +36168,11 @@
 @@||meizu.coapi.moji.com^
 @@||track.cpau.info^
 @@||passport.bobo.com^
+||nellads.com^
+||podsolnu9hi10.com^
+||mediacpm.pl^
+||plantationthrillednoncommittal.com^
+||ponchowafesargb.com^
 ||flagros2sii8fdbrh09.com^
 ||showmeyouradsnow.com^
 ||eetyed.com^
@@ -42737,6 +42742,7 @@
 ||tracking100.com^
 ||tracking202.com^
 ||trackinglabs.com^
+||united-infos.net^
 ||vmm-satellite1.com^
 ||vmm-satellite2.com^
 ||waframedia9.com^
@@ -43334,6 +43340,7 @@
 ||stats.sec.telefonica.com^
 ||counter.mtgnewmedia.se^
 ||stat.matichon.co.th^
+||tracking.venturify.at^
 ||analytics.yomedia.vn^
 ||tracking.aita.gov.vn^
 ||adsrv.eacdn.com^
@@ -43460,6 +43467,9 @@
 ||tutonovip.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
+||b9msljkxf96s.ru^
+||hfiorasadions.mobi^
+||whhrux.com^
 ||cbfhghb.pro^
 ||trofvid.com^
 ||trofvido.com^
@@ -47576,6 +47586,7 @@
 ||top-newsrustoria.ru^
 ||topruistory.ru^
 ||toprustory.ru^
+||yes999.tk^
 ||adnsafe.net^
 ||advertag.in^
 ||mp.subservis.com^
@@ -49326,10 +49337,10 @@
 ||sacchaeleduk.com^
 ||smilitygorb.club^
 ||ucesreferre.club^
-||fuycai.com^
-||xyadyzpsb.com^
-||qdkzjdsb.cn^
-||7791.com.cn^
+||72zh.cn^
+||forever-k.com.cn^
+||fuzausb.top^
+||meituan.yoga^
 ||02123s.com^
 ||080644.com^
 ||||111.175.219.*.js^
@@ -49344,6 +49355,7 @@
 ||66996.top^
 ||66997.top^
 ||66998.top^
+||7791.com.cn^
 ||7xz3.com^
 ||91xry.com^
 ||9377aa.com^
@@ -49404,6 +49416,7 @@
 ||fghlmiaoqrtyfl65ha0ss22k3dqi6lng.com^
 ||fjmeyer.com^
 ||fujianryt.com^
+||fuycai.com^
 ||gg0376.com^
 ||goge365-baidu.com^
 ||gouhei.top^
@@ -49461,6 +49474,7 @@
 ||padspms.com^
 ||qbyy010.com^
 ||qclcdn.cn^
+||qdkzjdsb.cn^
 ||||qinqiaotrade.com^
 ||rdiqt.cn^
 ||rickysblast.cn^
@@ -49505,6 +49519,7 @@
 ||xn--xhq9mt12cf5v.top^
 ||xn--xhq9mt12cf5v.website^
 ||||xxx55tp.com^*.gif^
+||xyadyzpsb.com^
 ||||1024wanzhai.^
 ||133gp.com^
 ||7wkw.com^
@@ -49686,6 +49701,7 @@
 @@||youku.com^*^adshow
 @@||youku.com^*^showAd
 @@||yzzkb.com.cn^*ad.
+||anews7.nvwu.com^
 ||1.201980.com^
 ||1.92caijing.com^
 ||1.bangdan5.com^
@@ -49782,10 +49798,13 @@
 ||soonyou123.com^
 ||liyueao.top^
 ||||s1-a1.dnvodcdn.me^*.svg^
-||jxdzoy.cn^
-||fuligrs.cn^
-||am77p.cn^
-||naolifanghealth.com^
+||pu0glv.cn^
+||4nzrqw.cn^
+||xjhjtz.cn^
+||yaoquanshumeiyu.com^
+||dkjdnq.cn^
+||7kkqq.com^
+||huodiyun.cn^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||0302woeuxcbrnxcvsdfghu.xyz^
@@ -49829,6 +49848,7 @@
 ||ali2d.xyz^
 ||ali2f.xyz^
 ||allluck.cn^
+||am77p.cn^
 ||amghvzn.cn^
 ||axkxy.com^
 ||axsrq.cn^
@@ -49883,6 +49903,7 @@
 ||fenbengpan.cn^
 ||friend17.net^
 ||fstaw.com^
+||fuligrs.cn^
 ||fw.zhuaji.org^
 ||fwjoi.com^
 ||fyehare.com^
@@ -49926,6 +49947,7 @@
 ||jkert.com^
 ||jnsdkjzs.com^
 ||justincao84.cn^
+||jxdzoy.cn^
 ||kexigia.com^
 ||kg962.cn^
 ||kltent.cn^
@@ -49958,6 +49980,7 @@
 ||mwjpk.com^
 ||mxtailor.com^
 ||myycrw.com^
+||naolifanghealth.com^
 ||nd59w.cn^
 ||njjmp.com^
 ||njyyk.com^

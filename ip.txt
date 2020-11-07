@@ -36128,6 +36128,11 @@
 0.0.0.0 zzwpsm.cn
 0.0.0.0 zzxlukodff.com
 0.0.0.0 zzyonghao.com
+0.0.0.0 nellads.com
+0.0.0.0 podsolnu9hi10.com
+0.0.0.0 mediacpm.pl
+0.0.0.0 plantationthrillednoncommittal.com
+0.0.0.0 ponchowafesargb.com
 0.0.0.0 flagros2sii8fdbrh09.com
 0.0.0.0 showmeyouradsnow.com
 0.0.0.0 eetyed.com
@@ -42697,6 +42702,7 @@
 0.0.0.0 tracking100.com
 0.0.0.0 tracking202.com
 0.0.0.0 trackinglabs.com
+0.0.0.0 united-infos.net
 0.0.0.0 vmm-satellite1.com
 0.0.0.0 vmm-satellite2.com
 0.0.0.0 waframedia9.com
@@ -43294,6 +43300,7 @@
 0.0.0.0 stats.sec.telefonica.com
 0.0.0.0 counter.mtgnewmedia.se
 0.0.0.0 stat.matichon.co.th
+0.0.0.0 tracking.venturify.at
 0.0.0.0 analytics.yomedia.vn
 0.0.0.0 tracking.aita.gov.vn
 0.0.0.0 adsrv.eacdn.com
@@ -43420,6 +43427,9 @@
 0.0.0.0 tutonovip.com
 0.0.0.0 xclk-integracion.com
 0.0.0.0 yestorrents.org
+0.0.0.0 b9msljkxf96s.ru
+0.0.0.0 hfiorasadions.mobi
+0.0.0.0 whhrux.com
 0.0.0.0 cbfhghb.pro
 0.0.0.0 trofvid.com
 0.0.0.0 trofvido.com
@@ -47536,6 +47546,7 @@
 0.0.0.0 top-newsrustoria.ru
 0.0.0.0 topruistory.ru
 0.0.0.0 toprustory.ru
+0.0.0.0 yes999.tk
 0.0.0.0 adnsafe.net
 0.0.0.0 advertag.in
 0.0.0.0 mp.subservis.com
@@ -49286,10 +49297,10 @@
 0.0.0.0 sacchaeleduk.com
 0.0.0.0 smilitygorb.club
 0.0.0.0 ucesreferre.club
-0.0.0.0 fuycai.com
-0.0.0.0 xyadyzpsb.com
-0.0.0.0 qdkzjdsb.cn
-0.0.0.0 7791.com.cn
+0.0.0.0 72zh.cn
+0.0.0.0 forever-k.com.cn
+0.0.0.0 fuzausb.top
+0.0.0.0 meituan.yoga
 0.0.0.0 02123s.com
 0.0.0.0 080644.com
 0.0.0.0 ||111.175.219.*.js
@@ -49304,6 +49315,7 @@
 0.0.0.0 66996.top
 0.0.0.0 66997.top
 0.0.0.0 66998.top
+0.0.0.0 7791.com.cn
 0.0.0.0 7xz3.com
 0.0.0.0 91xry.com
 0.0.0.0 9377aa.com
@@ -49364,6 +49376,7 @@
 0.0.0.0 fghlmiaoqrtyfl65ha0ss22k3dqi6lng.com
 0.0.0.0 fjmeyer.com
 0.0.0.0 fujianryt.com
+0.0.0.0 fuycai.com
 0.0.0.0 gg0376.com
 0.0.0.0 goge365-baidu.com
 0.0.0.0 gouhei.top
@@ -49421,6 +49434,7 @@
 0.0.0.0 padspms.com
 0.0.0.0 qbyy010.com
 0.0.0.0 qclcdn.cn
+0.0.0.0 qdkzjdsb.cn
 0.0.0.0 ||qinqiaotrade.com
 0.0.0.0 rdiqt.cn
 0.0.0.0 rickysblast.cn
@@ -49465,6 +49479,7 @@
 0.0.0.0 xn--xhq9mt12cf5v.top
 0.0.0.0 xn--xhq9mt12cf5v.website
 0.0.0.0 ||xxx55tp.com^*.gif
+0.0.0.0 xyadyzpsb.com
 0.0.0.0 ||1024wanzhai.
 0.0.0.0 133gp.com
 0.0.0.0 7wkw.com
@@ -49628,6 +49643,7 @@
 0.0.0.0 ||yyo876.com^*.php
 0.0.0.0 ||yyoyyu.com^*.php
 0.0.0.0 ||zhimg.com^*adx
+0.0.0.0 anews7.nvwu.com
 0.0.0.0 1.201980.com
 0.0.0.0 1.92caijing.com
 0.0.0.0 1.bangdan5.com
@@ -49724,10 +49740,13 @@
 0.0.0.0 soonyou123.com
 0.0.0.0 liyueao.top
 0.0.0.0 ||s1-a1.dnvodcdn.me^*.svg
-0.0.0.0 jxdzoy.cn
-0.0.0.0 fuligrs.cn
-0.0.0.0 am77p.cn
-0.0.0.0 naolifanghealth.com
+0.0.0.0 pu0glv.cn
+0.0.0.0 4nzrqw.cn
+0.0.0.0 xjhjtz.cn
+0.0.0.0 yaoquanshumeiyu.com
+0.0.0.0 dkjdnq.cn
+0.0.0.0 7kkqq.com
+0.0.0.0 huodiyun.cn
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
 0.0.0.0 0302woeuxcbrnxcvsdfghu.xyz
@@ -49771,6 +49790,7 @@
 0.0.0.0 ali2d.xyz
 0.0.0.0 ali2f.xyz
 0.0.0.0 allluck.cn
+0.0.0.0 am77p.cn
 0.0.0.0 amghvzn.cn
 0.0.0.0 axkxy.com
 0.0.0.0 axsrq.cn
@@ -49825,6 +49845,7 @@
 0.0.0.0 fenbengpan.cn
 0.0.0.0 friend17.net
 0.0.0.0 fstaw.com
+0.0.0.0 fuligrs.cn
 0.0.0.0 fw.zhuaji.org
 0.0.0.0 fwjoi.com
 0.0.0.0 fyehare.com
@@ -49868,6 +49889,7 @@
 0.0.0.0 jkert.com
 0.0.0.0 jnsdkjzs.com
 0.0.0.0 justincao84.cn
+0.0.0.0 jxdzoy.cn
 0.0.0.0 kexigia.com
 0.0.0.0 kg962.cn
 0.0.0.0 kltent.cn
@@ -49900,6 +49922,7 @@
 0.0.0.0 mwjpk.com
 0.0.0.0 mxtailor.com
 0.0.0.0 myycrw.com
+0.0.0.0 naolifanghealth.com
 0.0.0.0 nd59w.cn
 0.0.0.0 njjmp.com
 0.0.0.0 njyyk.com

@@ -56730,6 +56730,7 @@
 ||isrtu.az1.qualtrics.com^
 ||ivey.az1.qualtrics.com^
 ||johncarroll.az1.qualtrics.com^
+||www.johncarroll.az1.qualtrics.com^
 ||johnsonbank.az1.qualtrics.com^
 ||kentstate.az1.qualtrics.com^
 ||landsend.az1.qualtrics.com^

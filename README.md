@@ -5,7 +5,7 @@
 | 文件     | raw地址 	| 官网地址 	| 适用于 	|
 | --------------------------------	|:------------------:	| ----------------	|---------------------------------------------	|
 | `hosted.txt` 	| [链接](https://raw.githubusercontent.com/jogn61/Merge-blocklists/main/hosted.txt) 	| []()	| AdGuardHome 	|
-| `ip.txt` 	| [链接](https://raw.githubusercontent.com/jogn61/Merge-blocklists/main/ip.txt) 	| []()	| Pi-Hole或其他。 	|
+| `ip.txt` 	| [链接](https://raw.githubusercontent.com/jogn61/Merge-blocklists/main/ip.txt) 	| []()	| Pi-Hole 	|
 
 
 ## 特别感谢

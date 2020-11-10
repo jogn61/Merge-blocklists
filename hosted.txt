@@ -53829,10 +53829,13 @@
 ||meet.exacttarget.com^
 ||members.exacttarget.com^
 ||ab148.mta.exacttarget.com^
+||ac98.mta.exacttarget.com^
 ||ad125.mta.exacttarget.com^
 ||ad138.mta.exacttarget.com^
+||ad164.mta.exacttarget.com^
 ||ad207.mta.exacttarget.com^
 ||ad240.mta.exacttarget.com^
+||ad53.mta.exacttarget.com^
 ||af149.mta.exacttarget.com^
 ||af248.mta.exacttarget.com^
 ||ag125.mta.exacttarget.com^
@@ -53989,6 +53992,7 @@
 ||df40.mta.exacttarget.com^
 ||df66.mta.exacttarget.com^
 ||df67.mta.exacttarget.com^
+||df70.mta.exacttarget.com^
 ||dg109.mta.exacttarget.com^
 ||dg118.mta.exacttarget.com^
 ||dg124.mta.exacttarget.com^
@@ -54055,6 +54059,7 @@
 ||fq233.mta.exacttarget.com^
 ||fq25.mta.exacttarget.com^
 ||fq43.mta.exacttarget.com^
+||fq48.mta.exacttarget.com^
 ||fq69.mta.exacttarget.com^
 ||fq9.mta.exacttarget.com^
 ||gc156.mta.exacttarget.com^
@@ -60775,6 +60780,7 @@
 ||1637156167.vk.com^
 ||167274089.vk.com^
 ||1m.vk.com^
+||maps.google.com.place.63.6456456-62.6457447.1z.vk.com^
 ||2.vk.com^
 ||21321.vk.com^
 ||22m.vk.com^
@@ -60798,6 +60804,7 @@
 ||adm.vk.com^
 ||admin.vk.com^
 ||ahm.vk.com^
+||alcdqk.vk.com^
 ||allencorona.vk.com^
 ||allow.vk.com^
 ||alugoh.vk.com^
@@ -60809,6 +60816,7 @@
 ||archieve.vk.com^
 ||auth.vk.com^
 ||away.vk.com^
+||awezus.vk.com^
 ||awurv664ay.vk.com^
 ||awway.vk.com^
 ||backend.vk.com^
@@ -61086,6 +61094,7 @@
 ||gemail.vk.com^
 ||gnowts.vk.com^
 ||graph.vk.com^
+||gyysek.vk.com^
 ||gzip.vk.com^
 ||ha3virus.vk.com^
 ||halkalit31maskot41.vk.com^
@@ -61111,6 +61120,7 @@
 ||iybbhm.vk.com^
 ||jbnank.vk.com^
 ||jhyzck.vk.com^
+||jwxes.vk.com^
 ||khromovskikh.vk.com^
 ||kiss.vk.com^
 ||koronaekszerkft-hu.vk.com^
@@ -61375,6 +61385,7 @@
 ||vww.vk.com^
 ||way.vk.com^
 ||web7.vk.com^
+||wftpv.vk.com^
 ||winvgr.vk.com^
 ||wip3.vk.com^
 ||wn.vk.com^
@@ -61383,6 +61394,7 @@
 ||ww.vk.com^
 ||www.ww.vk.com^
 ||www.vk.com^
+||xbjmng.vk.com^
 ||xn--80aa5alfu.vk.com^
 ||xovide.vk.com^
 ||xtatgz.vk.com^
@@ -62154,7 +62166,9 @@
 ||109more.duckdns.org^
 ||13dejuliodel2020.duckdns.org^
 ||1502ha.duckdns.org^
+||162roberts.duckdns.org^
 ||16e3710fenc60940mogq04ta0fs8l11a97t3446r.duckdns.org^
+||1wrct.duckdns.org^
 ||20kdc.duckdns.org^
 ||280home.duckdns.org^
 ||2gracesrd.duckdns.org^
@@ -62162,6 +62176,7 @@
 ||openwrt.2gracesrd.duckdns.org^
 ||owncloud.2gracesrd.duckdns.org^
 ||34canonpre.duckdns.org^
+||357walker.duckdns.org^
 ||3wwijasg9ains9gians.duckdns.org^
 ||cpanel.3wwijasg9ains9gians.duckdns.org^
 ||40kenilworth.duckdns.org^

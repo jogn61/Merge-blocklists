@@ -35589,6 +35589,7 @@
 @@||meizu.coapi.moji.com^
 @@||track.cpau.info^
 @@||passport.bobo.com^
+||pkt.urmovs.com^
 ||oodsauns.net^
 ||b.domnlk.com^
 ||leonodikeu9sj10.com^
@@ -35606,7 +35607,6 @@
 ||watch.publicidadpro.com^
 ||ejirytuw.xyz^
 ||hioeb.com^
-||ym-a.cc^
 ||daemonclicks.com^
 ||throughhonouredhighest.com^
 ||declk.com^
@@ -37702,6 +37702,7 @@
 ||ae1a1e258b8b016.com^
 ||ae21a0ad95016488.com^
 ||ae3482c74b1a99f.com^
+||aeeefzfuk.com^
 ||aegzjowko.com^
 ||affiliates.systems^
 ||ahneiwkpsnxign.com^
@@ -37742,6 +37743,7 @@
 ||ba5ed55a0d56f15.com^
 ||ba6af3a0099c6cb9eb5.com^
 ||baa2e174884c9c0460e.com^
+||baileycommaserum.com^
 ||bakaqddxhhsid.com^
 ||baptismwitnesseddisobedience.com^
 ||bb1acb0ea5ddb1fed8.com^
@@ -37972,6 +37974,7 @@
 ||f3551539d6565853.com^
 ||f35c5dba3b0b5b017.com^
 ||f45ff72fec5426ae.com^
+||f4674af89e.com^
 ||f47cecd3f0a29874f.com^
 ||f8260adbf8558d6.com^
 ||fa00c331ceacc.com^
@@ -38005,6 +38008,7 @@
 ||fnfhplmys.com^
 ||foqbcgpwrq.com^
 ||foqzposfvmk.com^
+||fqbucxkfcya.com^
 ||fqcqmjdn.com^
 ||fqkvanldq.com^
 ||frclyody.com^
@@ -38049,6 +38053,7 @@
 ||gjrzirxxkbw.com^
 ||gkqcduzwla.com^
 ||glfqztlzebamqw.com^
+||glfrjgeco.com^
 ||gmjhwyby.com^
 ||gmzaaeenp.com^
 ||go2.global^
@@ -38248,6 +38253,7 @@
 ||iuncajvw.com^
 ||iuooczzbi.com^
 ||iuowwbrqblweoa.com^
+||iutkryvnixptlg.com^
 ||iutqdjtajrhpi.com^
 ||ivowhzku.com^
 ||ivvoooxuyjfuo.com^
@@ -38309,6 +38315,7 @@
 ||jnljkbkiaqcmb.com^
 ||josxzdszqaivb.com^
 ||jotpybmcjvg.com^
+||joyfullysacrificeralph.com^
 ||joynxonnxfnvqr.com^
 ||jozfwcmrxkwva.com^
 ||jpabviwck.com^
@@ -38954,11 +38961,13 @@
 ||scvdxxgbvoz.com^
 ||sdeadbqsjam.com^
 ||sdgvzdksjbl.com^
+||sdmwklnd.com^
 ||sdtqotoe.com^
 ||sdzwkmokd.com^
 ||sdzxojlt.com^
 ||secureeavesdroppingdisguised.com^
 ||seoaelrfdy.com^
+||sequestrassent.xyz^
 ||setrtcjfhreqg.com^
 ||seuojaesymeriv.com^
 ||sexilbbpnc.com^
@@ -38983,6 +38992,7 @@
 ||sjwnhrypuxrzv.com^
 ||skhflncik.com^
 ||smoothlyconsulatecrossroad.com^
+||snezynrzsz.com^
 ||soundingexpulsioninspector.com^
 ||specialityparentalconcluded.com^
 ||specimensspittleentrepreneur.com^
@@ -39380,6 +39390,7 @@
 ||yllfdnftjo.com^
 ||ylnmzwwc.com^
 ||yloidlvfhpkq.com^
+||ym-a.cc^
 ||ymerjqsynqoxdm.com^
 ||ympkaxpaf.com^
 ||ymsutnllwwcm.com^
@@ -39483,6 +39494,7 @@
 ||zqswmyzlkcvrtu.com^
 ||zramisxvxmkf.com^
 ||zreqmcewq.com^
+||ztexhfznxvpr.com^
 ||ztiqalyrbfsnl.com^
 ||ztslmijniaoqip.com^
 ||zudlddyzgogsh.com^
@@ -40289,6 +40301,8 @@
 ||weboohost.com^
 ||log-hl.snssdk.com^
 ||ib.snssdk.com^
+||getcode.cotsta.ru^
+||bewilderedbattle.com^
 ||log-marketing.jp^
 ||tatsumi-sys.jp^
 ||mycheckergeo.com^
@@ -41744,6 +41758,7 @@
 ||um-public-panel-prod.s3.amazonaws.com^
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
+||wa.web.de^
 ||stat.alloha.tv^
 ||counter.web.money^
 ||stat.videonow.ru^
@@ -42688,6 +42703,7 @@
 ||g4357855370.co^
 ||g4555939705.co^
 ||g4754024040.co^
+||g4952108375.co^
 ||24log.com^
 ||ad-score.com^
 ||ad-srv-track.com^
@@ -43436,6 +43452,10 @@
 ||tutonovip.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
+||sobakapi2sa8la09.com^
+||pmxsvdb.pro^
+||hbihjeebhghcdeeeaef.ru^
+||yoajqj.com^
 ||vp1.zkshfbdg.info^
 ||advertmi.ru^
 ||epnclick.ru^
@@ -49312,6 +49332,7 @@
 ||sacchaeleduk.com^
 ||smilitygorb.club^
 ||ucesreferre.club^
+||just-machinery.com^
 ||02123s.com^
 ||0313413.com^
 ||||111.175.219.*.js^
@@ -49817,6 +49838,7 @@
 ||zhuyuanp.club^
 ||liyueao.top^
 ||||s1-a1.dnvodcdn.me^*.svg^
+||jsr9.com^
 ||0217qpineuxbcdhopswkvf.xyz^
 ||0224fqpowiuxybnmvdfghj.xyz^
 ||0302woeuxcbrnxcvsdfghu.xyz^
@@ -52310,6 +52332,7 @@
 ||1038943-43.chat.api.drift.com^
 ||1038997-47.chat.api.drift.com^
 ||1039012-12.chat.api.drift.com^
+||1039230-30.chat.api.drift.com^
 ||103949-49.chat.api.drift.com^
 ||1039640-40.chat.api.drift.com^
 ||1039669-19.chat.api.drift.com^
@@ -52368,6 +52391,7 @@
 ||1050439-39.chat.api.drift.com^
 ||www.1050439-39.chat.api.drift.com^
 ||1050896-46.chat.api.drift.com^
+||1050918-18.chat.api.drift.com^
 ||105140-40.chat.api.drift.com^
 ||1051900-0.chat.api.drift.com^
 ||1051926-26.chat.api.drift.com^
@@ -52408,6 +52432,7 @@
 ||1060987-37.chat.api.drift.com^
 ||1061111-11.chat.api.drift.com^
 ||1061304-4.chat.api.drift.com^
+||1061332-32.chat.api.drift.com^
 ||1062327-27.chat.api.drift.com^
 ||www.1062418-18.chat.api.drift.com^
 ||1062455-5.chat.api.drift.com^
@@ -52524,6 +52549,7 @@
 ||1098443-43.chat.api.drift.com^
 ||1098881-31.chat.api.drift.com^
 ||1099449-49.chat.api.drift.com^
+||109962-12.chat.api.drift.com^
 ||1099670-20.chat.api.drift.com^
 ||1100103-3.chat.api.drift.com^
 ||1100247-47.chat.api.drift.com^
@@ -52556,6 +52582,7 @@
 ||1119255-5.chat.api.drift.com^
 ||1119345-45.chat.api.drift.com^
 ||1122114-14.chat.api.drift.com^
+||1122408-8.chat.api.drift.com^
 ||1122523-23.chat.api.drift.com^
 ||1123437-37.chat.api.drift.com^
 ||1124461-11.chat.api.drift.com^
@@ -52847,6 +52874,7 @@
 ||1354012-12.chat.api.drift.com^
 ||1354014-14.chat.api.drift.com^
 ||1354061-11.chat.api.drift.com^
+||1354619-19.chat.api.drift.com^
 ||1354790-40.chat.api.drift.com^
 ||1356247-47.chat.api.drift.com^
 ||1356605-5.chat.api.drift.com^
@@ -52947,6 +52975,7 @@
 ||1411193-43.chat.api.drift.com^
 ||1411317-17.chat.api.drift.com^
 ||1411555-5.chat.api.drift.com^
+||1411692-42.chat.api.drift.com^
 ||1415400-0.chat.api.drift.com^
 ||1415722-22.chat.api.drift.com^
 ||1415998-48.chat.api.drift.com^
@@ -53219,6 +53248,7 @@
 ||75967-17.chat.api.drift.com^
 ||76781-31.chat.api.drift.com^
 ||76823-23.chat.api.drift.com^
+||76874-24.chat.api.drift.com^
 ||77029-29.chat.api.drift.com^
 ||77774-24.chat.api.drift.com^
 ||78128-28.chat.api.drift.com^
@@ -53262,6 +53292,7 @@
 ||92238-38.chat.api.drift.com^
 ||92636-36.chat.api.drift.com^
 ||92808-8.chat.api.drift.com^
+||93163-13.chat.api.drift.com^
 ||94234-34.chat.api.drift.com^
 ||94292-42.chat.api.drift.com^
 ||94406-6.chat.api.drift.com^
@@ -57023,6 +57054,7 @@
 ||branigan.qualtrics.com^
 ||brightline.qualtrics.com^
 ||brittanyferries.qualtrics.com^
+||brown.qualtrics.com^
 ||brusselsairlines.qualtrics.com^
 ||bryant.qualtrics.com^
 ||bsu.qualtrics.com^
@@ -59339,6 +59371,7 @@
 ||zn7pvvogbfmgnzg4b-kumandgo.siteintercept.qualtrics.com^
 ||zn7vxbjk81nhox2qf-springernature.siteintercept.qualtrics.com^
 ||zn7wdmojjixvhyobn-news.siteintercept.qualtrics.com^
+||zn7weq3ulla03svlp-sans.siteintercept.qualtrics.com^
 ||zn7whwrcrmbs9xwyd-nlmenterprise.siteintercept.qualtrics.com^
 ||zn7wjxa5brlo6jo3h-delawarenorth.siteintercept.qualtrics.com^
 ||zn80tq8ctmxvgaoxz-novanthealthcx.siteintercept.qualtrics.com^
@@ -59422,6 +59455,7 @@
 ||zn9p3w6lvu8hek2vh-hci.siteintercept.qualtrics.com^
 ||zn9prn8hmmrgwbaht-crain.siteintercept.qualtrics.com^
 ||zn9qqgp5dwqp1x5zv-etsy.siteintercept.qualtrics.com^
+||zn9qtjklceg15veaz-uhcdr.siteintercept.qualtrics.com^
 ||zn9qvbtnjsxcm2hwz-expediainc.siteintercept.qualtrics.com^
 ||zn9rktsyukkhrcrgt-mouser.siteintercept.qualtrics.com^
 ||zn9shmbv1zypjigqd-aicpa.siteintercept.qualtrics.com^
@@ -60781,6 +60815,7 @@
 ||apis.vk.com^
 ||app.vk.com^
 ||archieve.vk.com^
+||arkehh.vk.com^
 ||auth.vk.com^
 ||away.vk.com^
 ||awezus.vk.com^

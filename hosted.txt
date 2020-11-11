@@ -58680,6 +58680,7 @@
 ||nupsych.qualtrics.com^
 ||nursinghomeinfections.qualtrics.com^
 ||nursingjhu.qualtrics.com^
+||nvhealth.qualtrics.com^
 ||nwpsych.qualtrics.com^
 ||nww.qualtrics.com^
 ||nyp.qualtrics.com^
@@ -61082,6 +61083,7 @@
 ||ebscovideo.vk.com^
 ||ecovidrio.vk.com^
 ||edana.vk.com^
+||eecpuz.vk.com^
 ||eitquarantine.vk.com^
 ||emeaquarantine.vk.com^
 ||eneplg.vk.com^
@@ -61731,6 +61733,7 @@
 ||fjfoh75b-android.mobile-sdk-api.intercom.io^
 ||frescov1d4wiv-android.mobile-sdk-api.intercom.io^
 ||fw043oki-android-3-0-1-0.mobile-sdk-api.intercom.io^
+||fw043oki-android-3-4-3.mobile-sdk-api.intercom.io^
 ||fz3btoxd-android.mobile-sdk-api.intercom.io^
 ||fzadhoip-android-2-1-5-9.mobile-sdk-api.intercom.io^
 ||g3xteb7q-android.mobile-sdk-api.intercom.io^

@@ -35565,7 +35565,6 @@
 0.0.0.0 bmcdn1.com
 0.0.0.0 pinkpig2le8tt09.com
 0.0.0.0 watch.publicidadpro.com
-0.0.0.0 ejirytuw.xyz
 0.0.0.0 hioeb.com
 0.0.0.0 daemonclicks.com
 0.0.0.0 throughhonouredhighest.com
@@ -35653,7 +35652,6 @@
 0.0.0.0 creamssicsite.com
 0.0.0.0 losingoldfry.com
 0.0.0.0 adex.sato.my.id
-0.0.0.0 ledmophemp.com
 0.0.0.0 makuzeko.xyz
 0.0.0.0 joggingavenge.com
 0.0.0.0 popupaval.com
@@ -37545,6 +37543,7 @@
 0.0.0.0 448ff4fcfcd199a.com
 0.0.0.0 4702fb341ddf276d.com
 0.0.0.0 48423894b2a24481.com
+0.0.0.0 4cr447ewncl4.com
 0.0.0.0 4e34b4865905c4.com
 0.0.0.0 4eacccd99990beed317.com
 0.0.0.0 4f6b2af479d337cf.com
@@ -37556,6 +37555,7 @@
 0.0.0.0 56bc7e3668e952c.com
 0.0.0.0 5726303d87522d05.com
 0.0.0.0 58b291f917728a2.com
+0.0.0.0 59a8e0d6fa2.com
 0.0.0.0 5b5a93686577c13.com
 0.0.0.0 5c577fc74618431b.com
 0.0.0.0 5e1fcb75b6d662d.com
@@ -37654,6 +37654,7 @@
 0.0.0.0 abeaddc65282d465.com
 0.0.0.0 acacexjsh.com
 0.0.0.0 acbsuicxkoyef.com
+0.0.0.0 acceptablecolor.com
 0.0.0.0 accessorymiddleirresponsible.com
 0.0.0.0 adjoiningfollowingaddiction.com
 0.0.0.0 adqvauwe.com
@@ -37739,6 +37740,7 @@
 0.0.0.0 breastfeedingfabricadorable.com
 0.0.0.0 btbuigpxge.com
 0.0.0.0 buglethemfouls.casa
+0.0.0.0 busguyspec.com
 0.0.0.0 bussaidbag.casa
 0.0.0.0 bvrdzbzwa.com
 0.0.0.0 bvuficdch.com
@@ -37851,6 +37853,7 @@
 0.0.0.0 dmrecvpflqb.com
 0.0.0.0 dpoulbxouhor.com
 0.0.0.0 dqldmtpu.com
+0.0.0.0 driverwinggranulated.com
 0.0.0.0 dtusmzjdycvk.com
 0.0.0.0 dvszrkspd.com
 0.0.0.0 dwkfnswdnheqfz.com
@@ -37865,6 +37868,7 @@
 0.0.0.0 e331ff4e674c083.com
 0.0.0.0 e347bb14dc71778.com
 0.0.0.0 e376ef28103177cc.com
+0.0.0.0 e5c4d8d221.com
 0.0.0.0 e6916adeb7e46a883.com
 0.0.0.0 e7e776c1a8bf677.com
 0.0.0.0 e85440ec98f04725.com
@@ -37875,6 +37879,7 @@
 0.0.0.0 earthincomprehensibleintrepid.com
 0.0.0.0 easygoinghomesickimprobable.com
 0.0.0.0 eatxurmf.com
+0.0.0.0 ebqfuphibj.com
 0.0.0.0 edlsdyhll.com
 0.0.0.0 eeagxonnsoggq.com
 0.0.0.0 eee3a05c040fef3.com
@@ -37888,6 +37893,7 @@
 0.0.0.0 ehhmynitx.com
 0.0.0.0 ehlfynuo.com
 0.0.0.0 ejgdixiddmruql.com
+0.0.0.0 ejirytuw.xyz
 0.0.0.0 ejmiysfbwuk.com
 0.0.0.0 ejodwopthpg.com
 0.0.0.0 ejoyjumnsft.com
@@ -37901,9 +37907,11 @@
 0.0.0.0 elimpfdlss.com
 0.0.0.0 eloumbsyd.com
 0.0.0.0 emdqaycbvqz.com
+0.0.0.0 emotificc.top
 0.0.0.0 emrumkgmdmdq.com
 0.0.0.0 emxztiidh.com
 0.0.0.0 enokjulejktukh.com
+0.0.0.0 enthusiasmturnipflare.com
 0.0.0.0 entlydazhcmlgx.com
 0.0.0.0 enusbrzlmcmg.com
 0.0.0.0 enzodpxuons.com
@@ -37936,6 +37944,7 @@
 0.0.0.0 f45ff72fec5426ae.com
 0.0.0.0 f4674af89e.com
 0.0.0.0 f47cecd3f0a29874f.com
+0.0.0.0 f56e3ea35a4.com
 0.0.0.0 f8260adbf8558d6.com
 0.0.0.0 fa00c331ceacc.com
 0.0.0.0 fadsabz.com
@@ -38381,6 +38390,8 @@
 0.0.0.0 ldqxdxtkepveg.com
 0.0.0.0 ldvmpopwd.com
 0.0.0.0 ldxdpitoeox.com
+0.0.0.0 ledmophemp.com
+0.0.0.0 leopardaddictedenthusiastic.com
 0.0.0.0 lesmyjzc.com
 0.0.0.0 leszvphhnytpk.com
 0.0.0.0 lfjmmgorkjoaw.com
@@ -38481,6 +38492,7 @@
 0.0.0.0 microscopeundertakingprowl.com
 0.0.0.0 miegpokitjxm.com
 0.0.0.0 mierdydkqvpgno.com
+0.0.0.0 milasktic.com
 0.0.0.0 missiontestamentinterfering.com
 0.0.0.0 mjkvwpabdce.com
 0.0.0.0 mjquyspsrgybs.com
@@ -38573,6 +38585,7 @@
 0.0.0.0 nnvqabkpa.com
 0.0.0.0 nobpgppgbucy.com
 0.0.0.0 noiaifyednjt.com
+0.0.0.0 noiselesscatching.com
 0.0.0.0 nolpjfsu.com
 0.0.0.0 nosdbwnd.com
 0.0.0.0 nowymmrxj.com
@@ -38609,6 +38622,7 @@
 0.0.0.0 oansiwcmc.com
 0.0.0.0 oartozvwzv.com
 0.0.0.0 obstacleconsideringheadphone.com
+0.0.0.0 obstructlawn.com
 0.0.0.0 obufquwiwy.com
 0.0.0.0 obwvmzdb.com
 0.0.0.0 obyxqjgwg.com
@@ -38645,6 +38659,7 @@
 0.0.0.0 oounzfsyxiuj.com
 0.0.0.0 ooutqfslr.com
 0.0.0.0 opcyvbwkbiaqyt.com
+0.0.0.0 openmindedisabella.com
 0.0.0.0 opfrjkmmvqmm.com
 0.0.0.0 opisumqii.com
 0.0.0.0 oppressiveinterdependenthumanity.com
@@ -38720,6 +38735,7 @@
 0.0.0.0 pkrgwlwhhsie.com
 0.0.0.0 plhvzqkkirw.com
 0.0.0.0 pllblrapagrvn.com
+0.0.0.0 pluralbreakpractice7.live
 0.0.0.0 pmdgwnsgucy.com
 0.0.0.0 pmjwztzpuhb.com
 0.0.0.0 pmoucikneuxcxy.com
@@ -38881,6 +38897,7 @@
 0.0.0.0 rmputwrbacfrf.com
 0.0.0.0 rniiylqxvxybv.com
 0.0.0.0 rnzgebpy.com
+0.0.0.0 rovalionsa.fun
 0.0.0.0 rqaobxvj.com
 0.0.0.0 rqwozrkmtwiuri.com
 0.0.0.0 rqyezhetbspk.com
@@ -38971,6 +38988,7 @@
 0.0.0.0 szuzlcmoak.com
 0.0.0.0 tcupxwxcvssauz.com
 0.0.0.0 tddjcdzra.com
+0.0.0.0 tdsjsext3.life
 0.0.0.0 tgbjtcgkdu.com
 0.0.0.0 thaoxqlqcy.com
 0.0.0.0 theeburs.com
@@ -38984,10 +39002,12 @@
 0.0.0.0 tmblaeivephb.com
 0.0.0.0 tmxmckanu.com
 0.0.0.0 tnxiuvjtplhhdy.com
+0.0.0.0 toybahyn.com
 0.0.0.0 tpkmwnwbzetzbj.com
 0.0.0.0 tpmrwyhloretut.com
 0.0.0.0 trackingzen.com
 0.0.0.0 tremblingkeyboardassistant.com
+0.0.0.0 tureabstra.fun
 0.0.0.0 turmoilexcessivetranslating.com
 0.0.0.0 tuygdfsydexdeb.com
 0.0.0.0 tvnqeshbs.com
@@ -39740,7 +39760,6 @@
 0.0.0.0 adslog.apexinnotech.com
 0.0.0.0 pa.afreecatv.com
 0.0.0.0 matrix.dailyinnovation.biz
-0.0.0.0 view.adjust.com
 0.0.0.0 addata.mediacategory.com
 0.0.0.0 ads-leaseweb.appsgeyser.com
 0.0.0.0 ads.appsgeyser.com
@@ -42644,7 +42663,6 @@
 0.0.0.0 trk.pinterest.com
 0.0.0.0 tu.dxcnd.cn
 0.0.0.0 tunein.adswizz.com
-0.0.0.0 ulink.adjust.com
 0.0.0.0 upalytics.com
 0.0.0.0 ymtracking.com
 0.0.0.0 upoll.umengcloud.com
@@ -42882,6 +42900,7 @@
 0.0.0.0 data.gosquared.com
 0.0.0.0 data.marketgid.com
 0.0.0.0 data2.gosquared.com
+0.0.0.0 event.syndigo.cloud
 0.0.0.0 events.apester.com
 0.0.0.0 events.izooto.com
 0.0.0.0 evt.izooto.com
@@ -43101,6 +43120,7 @@
 0.0.0.0 convsgmp.taboola.com
 0.0.0.0 la-sync.taboola.com
 0.0.0.0 opps.taboola.com
+0.0.0.0 sync.taboola.com
 0.0.0.0 urc.taboolasyndication.com
 0.0.0.0 wf.taboola.com
 0.0.0.0 risk.clearbit.com
@@ -47541,6 +47561,7 @@
 0.0.0.0 top-newsrustoria.ru
 0.0.0.0 topruistory.ru
 0.0.0.0 toprustory.ru
+0.0.0.0 yes999.ga
 0.0.0.0 yes999.ml
 0.0.0.0 yes999.tk
 0.0.0.0 adnsafe.net
@@ -49292,7 +49313,6 @@
 0.0.0.0 sacchaeleduk.com
 0.0.0.0 smilitygorb.club
 0.0.0.0 ucesreferre.club
-0.0.0.0 just-machinery.com
 0.0.0.0 02123s.com
 0.0.0.0 0313413.com
 0.0.0.0 ||111.175.219.*.js
@@ -49394,6 +49414,7 @@
 0.0.0.0 jossuer.net
 0.0.0.0 joyfuldoors.com
 0.0.0.0 jucaishequ.com
+0.0.0.0 just-machinery.com
 0.0.0.0 kdqoehj.top
 0.0.0.0 kgcj00.cn
 0.0.0.0 kitchenfurniture.cc
@@ -49780,7 +49801,7 @@
 0.0.0.0 zhuyuanp.club
 0.0.0.0 liyueao.top
 0.0.0.0 ||s1-a1.dnvodcdn.me^*.svg
-0.0.0.0 jsr9.com
+0.0.0.0 3hbox.com
 0.0.0.0 0217qpineuxbcdhopswkvf.xyz
 0.0.0.0 0224fqpowiuxybnmvdfghj.xyz
 0.0.0.0 0302woeuxcbrnxcvsdfghu.xyz
@@ -49932,6 +49953,7 @@
 0.0.0.0 jiumishow.com
 0.0.0.0 jkert.com
 0.0.0.0 jnsdkjzs.com
+0.0.0.0 jsr9.com
 0.0.0.0 justincao84.cn
 0.0.0.0 juyzr.com
 0.0.0.0 jxhcyc.com

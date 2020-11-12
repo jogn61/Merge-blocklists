@@ -52269,11 +52269,8 @@
 ||ent.comm100.com^
 ||ent1chatserver.comm100.com^
 ||ent1portal.comm100.com^
-||ent7.comm100.com^
 ||ent7chatserver.comm100.com^
-||ent7portal.comm100.com^
 ||entchatserver.comm100.com^
-||entchatserver7.comm100.com^
 ||enterprise.comm100.com^
 ||enterprisechatserver.comm100.com^
 ||enterpriseportal.comm100.com^

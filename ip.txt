@@ -52154,11 +52154,8 @@
 0.0.0.0 ent.comm100.com
 0.0.0.0 ent1chatserver.comm100.com
 0.0.0.0 ent1portal.comm100.com
-0.0.0.0 ent7.comm100.com
 0.0.0.0 ent7chatserver.comm100.com
-0.0.0.0 ent7portal.comm100.com
 0.0.0.0 entchatserver.comm100.com
-0.0.0.0 entchatserver7.comm100.com
 0.0.0.0 enterprise.comm100.com
 0.0.0.0 enterprisechatserver.comm100.com
 0.0.0.0 enterpriseportal.comm100.com

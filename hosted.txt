@@ -51752,7 +51752,6 @@
 ||xinyong.360.cn^
 ||xiuxian.360.cn^
 ||biying.xy.360.cn^
-||qc.xy.360.cn^
 ||yasuo.360.cn^
 ||fb.yasuo.360.cn^
 ||ydt.360.cn^
@@ -55312,7 +55311,6 @@
 ||api.profilesteam.dev.or.janrain.com^
 ||engage-app.or.janrain.com^
 ||stg.or.janrain.com^
-||api.multi.stg.or.janrain.com^
 ||social.multi.stg.or.janrain.com^
 ||v1.api.or-stg.janrain.com^
 ||oreilly.janrain.com^
@@ -60793,6 +60791,7 @@
 ||samsungresources.visionobjects.com^
 ||vk.com^
 ||0.vk.com^
+||www.0.vk.com^
 ||0-109.vk.com^
 ||0-11.vk.com^
 ||0-11-213-95.vk.com^
@@ -60822,6 +60821,7 @@
 ||31.vk.com^
 ||3213.vk.com^
 ||38.vk.com^
+||www.38.vk.com^
 ||43.vk.com^
 ||45.vk.com^
 ||68post.vk.com^
@@ -60857,6 +60857,7 @@
 ||cc.vk.com^
 ||quarantine.cc.vk.com^
 ||cdn-ads.vk.com^
+||cevoi.vk.com^
 ||check.vk.com^
 ||clicks.vk.com^
 ||collamask.vk.com^
@@ -61147,6 +61148,7 @@
 ||infeccionvaginal.vk.com^
 ||ivs458.vk.com^
 ||iybbhm.vk.com^
+||izcaz.vk.com^
 ||jbnank.vk.com^
 ||jhyzck.vk.com^
 ||jwxes.vk.com^
@@ -61268,6 +61270,7 @@
 ||smtp.vk.com^
 ||spb-children-infection.vk.com^
 ||srv0-128-240-87.vk.com^
+||www.srv0-128-240-87.vk.com^
 ||srv0-224-186-93.vk.com^
 ||srv10-34-213-95.vk.com^
 ||srv112-237-186-93.vk.com^
@@ -61427,6 +61430,7 @@
 ||xn--80aa5alfu.vk.com^
 ||xovide.vk.com^
 ||xtatgz.vk.com^
+||xthpd.vk.com^
 ||xwizft.vk.com^
 ||xxxxxxxxxxm.vk.com^
 ||xygvkb.vk.com^

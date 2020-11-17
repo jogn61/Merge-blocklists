@@ -55436,7 +55436,6 @@
 0.0.0.0 build.livefyre.com
 0.0.0.0 cdn.livefyre.com
 0.0.0.0 data.livefyre.com
-0.0.0.0 ct227.dsr.livefyre.com
 0.0.0.0 ct228.dsr.livefyre.com
 0.0.0.0 ct229.dsr.livefyre.com
 0.0.0.0 ct230.dsr.livefyre.com

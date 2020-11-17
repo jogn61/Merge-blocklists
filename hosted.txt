@@ -55553,7 +55553,6 @@
 ||build.livefyre.com^
 ||cdn.livefyre.com^
 ||data.livefyre.com^
-||ct227.dsr.livefyre.com^
 ||ct228.dsr.livefyre.com^
 ||ct229.dsr.livefyre.com^
 ||ct230.dsr.livefyre.com^

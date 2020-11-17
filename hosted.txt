@@ -58722,6 +58722,7 @@
 ||mitresearch.qualtrics.com^
 ||mitx.qualtrics.com^
 ||mmqataru.qualtrics.com^
+||mmrstrategy.qualtrics.com^
 ||momcentral.qualtrics.com^
 ||monashbuseco.qualtrics.com^
 ||montana.qualtrics.com^
@@ -60093,6 +60094,7 @@
 ||thepollingpace.qualtrics.com^
 ||thepollingplace.qualtrics.com^
 ||thevaccinesuk.qualtrics.com^
+||thomasmore.qualtrics.com^
 ||thomsons.qualtrics.com^
 ||tilburgss.qualtrics.com^
 ||tlpdc.qualtrics.com^
@@ -60429,6 +60431,7 @@
 ||utexas.qualtrics.com^
 ||utexascns.qualtrics.com^
 ||utorontofsw.qualtrics.com^
+||utpbcomm.qualtrics.com^
 ||utsabusiness.qualtrics.com^
 ||uttyler.qualtrics.com^
 ||uvafeb.qualtrics.com^
@@ -65384,6 +65387,7 @@
 ||nordvpn.ada.support^
 ||null.ada.support^
 ||o.ada.support^
+||oeeasia.ada.support^
 ||onetravel.ada.support^
 ||oom.ada.support^
 ||ops.ada.support^
@@ -65466,6 +65470,7 @@
 ||undefined.ada.support^
 ||uplift.ada.support^
 ||uplift-tas.ada.support^
+||uplight.ada.support^
 ||upwork.ada.support^
 ||upwork-community.ada.support^
 ||upwork-product.ada.support^

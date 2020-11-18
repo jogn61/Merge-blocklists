@@ -51497,6 +51497,7 @@
 ||qiyun.360.cn^
 ||console.qiyun.360.cn^
 ||static.qiyun.360.cn^
+||study.qiyun.360.cn^
 ||vod.live.study.qiyun.360.cn^
 ||quake.360.cn^
 ||query.rec.360.cn^
@@ -58255,6 +58256,7 @@
 ||graniteprop.qualtrics.com^
 ||gru.qualtrics.com^
 ||na1.gru.qualtrics.com^
+||pnccommunityinsightsailmail08.na1.gru.qualtrics.com^
 ||gsbcolumbia.qualtrics.com^
 ||gse.qualtrics.com^
 ||gsmpku.qualtrics.com^
@@ -60076,6 +60078,7 @@
 ||tcdbusiness.qualtrics.com^
 ||tcdecon.qualtrics.com^
 ||tcnj.qualtrics.com^
+||technion.qualtrics.com^
 ||techsmith.qualtrics.com^
 ||techtarget.qualtrics.com^
 ||telaviv.qualtrics.com^
@@ -63193,7 +63196,9 @@
 ||cloud.famwecker.duckdns.org^
 ||collabora.famwecker.duckdns.org^
 ||grafana.famwecker.duckdns.org^
+||heimdall.famwecker.duckdns.org^
 ||nextcloud.famwecker.duckdns.org^
+||phpipam.famwecker.duckdns.org^
 ||traefik.famwecker.duckdns.org^
 ||fat-face.duckdns.org^
 ||faucetz.duckdns.org^
@@ -64595,6 +64600,11 @@
 ||szabohq.duckdns.org^
 ||szunyog25.duckdns.org^
 ||tabarez.duckdns.org^
+||cloud.tabarez.duckdns.org^
+||fb.tabarez.duckdns.org^
+||omv.tabarez.duckdns.org^
+||ovpn.tabarez.duckdns.org^
+||plex.tabarez.duckdns.org^
 ||tadashi8484.duckdns.org^
 ||takipci-panelim.duckdns.org^
 ||tallahassee2.duckdns.org^
@@ -65582,6 +65592,12 @@
 ||upload.tawk.to^
 ||va.tawk.to^
 ||video.tawk.to^
+||vsa33.tawk.to^
+||vsa42.tawk.to^
+||vsa54.tawk.to^
+||vsa60.tawk.to^
+||vsa79.tawk.to^
+||vsa84.tawk.to^
 ||vsb1.tawk.to^
 ||vsb10.tawk.to^
 ||vsb100.tawk.to^

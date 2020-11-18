@@ -51380,6 +51380,7 @@
 0.0.0.0 qiyun.360.cn
 0.0.0.0 console.qiyun.360.cn
 0.0.0.0 static.qiyun.360.cn
+0.0.0.0 study.qiyun.360.cn
 0.0.0.0 vod.live.study.qiyun.360.cn
 0.0.0.0 quake.360.cn
 0.0.0.0 query.rec.360.cn
@@ -58138,6 +58139,7 @@
 0.0.0.0 graniteprop.qualtrics.com
 0.0.0.0 gru.qualtrics.com
 0.0.0.0 na1.gru.qualtrics.com
+0.0.0.0 pnccommunityinsightsailmail08.na1.gru.qualtrics.com
 0.0.0.0 gsbcolumbia.qualtrics.com
 0.0.0.0 gse.qualtrics.com
 0.0.0.0 gsmpku.qualtrics.com
@@ -59959,6 +59961,7 @@
 0.0.0.0 tcdbusiness.qualtrics.com
 0.0.0.0 tcdecon.qualtrics.com
 0.0.0.0 tcnj.qualtrics.com
+0.0.0.0 technion.qualtrics.com
 0.0.0.0 techsmith.qualtrics.com
 0.0.0.0 techtarget.qualtrics.com
 0.0.0.0 telaviv.qualtrics.com
@@ -63076,7 +63079,9 @@
 0.0.0.0 cloud.famwecker.duckdns.org
 0.0.0.0 collabora.famwecker.duckdns.org
 0.0.0.0 grafana.famwecker.duckdns.org
+0.0.0.0 heimdall.famwecker.duckdns.org
 0.0.0.0 nextcloud.famwecker.duckdns.org
+0.0.0.0 phpipam.famwecker.duckdns.org
 0.0.0.0 traefik.famwecker.duckdns.org
 0.0.0.0 fat-face.duckdns.org
 0.0.0.0 faucetz.duckdns.org
@@ -64478,6 +64483,11 @@
 0.0.0.0 szabohq.duckdns.org
 0.0.0.0 szunyog25.duckdns.org
 0.0.0.0 tabarez.duckdns.org
+0.0.0.0 cloud.tabarez.duckdns.org
+0.0.0.0 fb.tabarez.duckdns.org
+0.0.0.0 omv.tabarez.duckdns.org
+0.0.0.0 ovpn.tabarez.duckdns.org
+0.0.0.0 plex.tabarez.duckdns.org
 0.0.0.0 tadashi8484.duckdns.org
 0.0.0.0 takipci-panelim.duckdns.org
 0.0.0.0 tallahassee2.duckdns.org
@@ -65465,6 +65475,12 @@
 0.0.0.0 upload.tawk.to
 0.0.0.0 va.tawk.to
 0.0.0.0 video.tawk.to
+0.0.0.0 vsa33.tawk.to
+0.0.0.0 vsa42.tawk.to
+0.0.0.0 vsa54.tawk.to
+0.0.0.0 vsa60.tawk.to
+0.0.0.0 vsa79.tawk.to
+0.0.0.0 vsa84.tawk.to
 0.0.0.0 vsb1.tawk.to
 0.0.0.0 vsb10.tawk.to
 0.0.0.0 vsb100.tawk.to

@@ -1,12 +1,13 @@
 # Merge-blocklists
 
-#### 在互联网上收集阻止列表，并进行去重复和优化，用于阻止广告，跟踪器，恶意软件和其他垃圾等。 输出结果为两种。可根据需要选择下载.
+#### 在互联网上收集阻止列表，并进行去重复和优化，用于阻止广告，跟踪器，恶意软件和其他垃圾等。 输出结果为两种。可根据需要选择下载。
 
-| 文件     | GitHub地址 	| coding地址（推荐）| 适用于 |
+## 快速使用(使用国内地址，速度更稳定)
+
+| 文件     | raw地址 	| coding地址| 适用于 |
 | --------------------------------	|:------------------:	| ----------------	|---------------------------------------------	|
-| `hosted.txt` 	| [链接](https://raw.githubusercontent.com/jogn61/Merge-blocklists/main/hosted.txt) 	| [链接](https://qggguize.coding.net/p/merge-blocklists/d/merge-blocklists/git/raw/main/hosted.txt)	| AdGuardHome 	|
-| `ip.txt` 	| [链接](https://raw.githubusercontent.com/jogn61/Merge-blocklists/main/ip.txt) 	| [链接](https://qggguize.coding.net/p/merge-blocklists/d/merge-blocklists/git/raw/main/ip.txt)	| Pi-Hole 	|
-
+| `hosted.txt` 	| [链接](https://raw.githubusercontent.com/jogn61/Merge-blocklists/main/hosted.txt) 	|  [国内地址，更稳定](https://qggguize.coding.net/p/merge-blocklists/d/merge-blocklists/git/raw/main/hosted.txt)	| AdGuardHome 	|
+| `ip.txt` 	| [链接](https://raw.githubusercontent.com/jogn61/Merge-blocklists/main/ip.txt) 	| [国内地址，更稳定](https://qggguize.coding.net/p/merge-blocklists/d/merge-blocklists/git/raw/main/ip.txt)	| Pi-Hole 	|
 
 ## 特别感谢
 

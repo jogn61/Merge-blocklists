@@ -52912,6 +52912,7 @@
 ||ladsoks.com^
 ||ladsokz.com^
 ||ladspmz.com^
+||lanistaads.com^
 ||madsabs.com^
 ||madsabz.com^
 ||madsats.com^
@@ -62259,6 +62260,7 @@
 ||qx568.com^
 ||xingshenfang.cn^
 ||||yy18.info^*thanks^
+||yidiansurong.com^
 ||0937js.com^
 ||22588888.com^
 ||2481e.com^

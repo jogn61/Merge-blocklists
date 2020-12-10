@@ -51911,6 +51911,7 @@
 0.0.0.0 ladsoks.com
 0.0.0.0 ladsokz.com
 0.0.0.0 ladspmz.com
+0.0.0.0 lanistaads.com
 0.0.0.0 madsabs.com
 0.0.0.0 madsabz.com
 0.0.0.0 madsats.com
@@ -61258,6 +61259,7 @@
 0.0.0.0 qx568.com
 0.0.0.0 xingshenfang.cn
 0.0.0.0 ||yy18.info^*thanks
+0.0.0.0 yidiansurong.com
 0.0.0.0 0937js.com
 0.0.0.0 22588888.com
 0.0.0.0 2481e.com

@@ -49512,6 +49512,8 @@
 0.0.0.0 zztlgm.com
 0.0.0.0 zzvvzfiwyfq.com
 0.0.0.0 zzxlukodff.com
+0.0.0.0 ukfpgaeihxamg.com
+0.0.0.0 fzehxxsdxyfg.com
 0.0.0.0 9997494f4d4b694d4f6702.online
 0.0.0.0 wheelwheel.space
 0.0.0.0 vyhezucha.pro
@@ -54557,6 +54559,7 @@
 0.0.0.0 register.appsflyer.com
 0.0.0.0 events.appsflyer.com
 0.0.0.0 track.appsflyer.com
+0.0.0.0 trk2.pinterest.com
 0.0.0.0 mobiletelemetry.ebay.com
 0.0.0.0 tracker.departapp.com
 0.0.0.0 us-tracking.nextdoor.com

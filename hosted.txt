@@ -50514,6 +50514,8 @@
 @@||passport.bobo.com^
 @@||stat.jseea.cn^
 @@||widget.intercom.io^
+||ukfpgaeihxamg.com^
+||fzehxxsdxyfg.com^
 ||9997494f4d4b694d4f6702.online^
 ||wheelwheel.space^
 ||vyhezucha.pro^
@@ -55559,6 +55561,7 @@
 ||register.appsflyer.com^
 ||events.appsflyer.com^
 ||track.appsflyer.com^
+||trk2.pinterest.com^
 ||mobiletelemetry.ebay.com^
 ||tracker.departapp.com^
 ||us-tracking.nextdoor.com^

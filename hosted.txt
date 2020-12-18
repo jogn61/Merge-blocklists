@@ -50514,8 +50514,6 @@
 @@||passport.bobo.com^
 @@||stat.jseea.cn^
 @@||widget.intercom.io^
-||ukfpgaeihxamg.com^
-||fzehxxsdxyfg.com^
 ||9997494f4d4b694d4f6702.online^
 ||wheelwheel.space^
 ||vyhezucha.pro^
@@ -52619,6 +52617,7 @@
 ||fistcartyped.casa^
 ||formationconservation.com^
 ||fulfilledcompensatedelightful.com^
+||fzehxxsdxyfg.com^
 ||g2440001011.com^
 ||g2546417787.com^
 ||g2921554487.com^
@@ -52750,6 +52749,7 @@
 ||pgmrko89prom.com^
 ||philosophicalregardlesssetback.com^
 ||plantationthrillednoncommittal.com^
+||poifinsegg.com^
 ||pollscoopiffy.com^
 ||popbounty.com^
 ||pourdear.com^
@@ -52813,6 +52813,7 @@
 ||turmoilexcessivetranslating.com^
 ||tv1s4d6klh4n.com^
 ||u29qnuav3i6p.com^
+||ukfpgaeihxamg.com^
 ||unacceptableclevercapable.com^
 ||url.rw^
 ||urokcwwzno.com^
@@ -53536,6 +53537,7 @@
 ||rg.yottos.com^
 ||log-hl.snssdk.com^
 ||ib.snssdk.com^
+||analy1.dtnnetwork.be^
 ||track.customer.io^
 ||lcs.loginfra.com^
 ||adblock-analytics.io^
@@ -54915,6 +54917,7 @@
 ||um-public-panel-prod.s3.amazonaws.com^
 ||collection-endpoint-prod.herokuapp.com^
 ||collection-endpoint-staging.herokuapp.com^
+||analytics2.tvreport.co.kr^
 ||counter.adguard.com^
 ||l.www.naver.com^
 ||metrics.makemytrip.com^
@@ -62275,6 +62278,7 @@
 ||sacchaeleduk.com^
 ||smilitygorb.club^
 ||ucesreferre.club^
+||qdwght.com^
 ||bolimen.top^
 ||itchenjian.com^
 ||mtav1.com^
@@ -62301,6 +62305,8 @@
 ||cdn.imvkan.com^
 ||a1.zhanzhang.net^
 ||zhangshiyuan.com^
+||vkpsmzj.cn^
+||czlongle.cn^
 ||51showmy.com^
 ||91funcy.com^
 ||aodepuo.cn^

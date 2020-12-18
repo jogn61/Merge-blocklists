@@ -62628,6 +62628,7 @@
 ||hd.110.360.cn^
 ||www.110.360.cn^
 ||12306.360.cn^
+||360file.360.cn^
 ||360game.360.cn^
 ||bbs.360game.360.cn^
 ||cloud.360game.360.cn^
@@ -63265,6 +63266,7 @@
 ||h.live.360.cn^
 ||iot.live.360.cn^
 ||iotbear.live.360.cn^
+||health.iotbear.live.360.cn^
 ||license.live.360.cn^
 ||minipro.live.360.cn^
 ||qos.live.360.cn^
@@ -63311,6 +63313,7 @@
 ||sjbb.m.360.cn^
 ||stat.m.360.cn^
 ||test.stat.m.360.cn^
+||magic.360.cn^
 ||mail.360.cn^
 ||urm.mail.360.cn^
 ||mall.360.cn^
@@ -63497,6 +63500,7 @@
 ||query.rec.360.cn^
 ||reg.360.cn^
 ||renew.360.cn^
+||research.360.cn^
 ||s.360.cn^
 ||euc.s.360.cn^
 ||g.s.360.cn^
@@ -63679,6 +63683,7 @@
 ||h5test.speaker.360.cn^
 ||vod.speaker.360.cn^
 ||speedtest.360.cn^
+||ssp.360.cn^
 ||static.360.cn^
 ||needs.szcs.360.cn^
 ||t.360.cn^
@@ -63689,6 +63694,7 @@
 ||m.t.360.cn^
 ||mapi.t.360.cn^
 ||tbk-api.360.cn^
+||test.360.cn^
 ||tf.360.cn^
 ||b.tf.360.cn^
 ||tracking.dsp.tf.360.cn^
@@ -63711,6 +63717,7 @@
 ||tfboys.360.cn^
 ||ti.360.cn^
 ||api.tianji.360.cn^
+||tianyu.360.cn^
 ||tmesh.360.cn^
 ||tongxunlu.360.cn^
 ||tq.360.cn^
@@ -63769,6 +63776,7 @@
 ||tiyan.vip.360.cn^
 ||vision.360.cn^
 ||w.360.cn^
+||wallpaper.360.cn^
 ||wan.360.cn^
 ||bbs.wan.360.cn^
 ||dev.tg.wan.360.cn^
@@ -63800,6 +63808,7 @@
 ||dm.weishi.360.cn^
 ||search-b.weishi.360.cn^
 ||down.skin.weishi.360.cn^
+||wentian.360.cn^
 ||wg.360.cn^
 ||bi.wg.360.cn^
 ||kf.wg.360.cn^
@@ -68566,6 +68575,7 @@
 ||a8.bos.providesupport.com^
 ||cc1i.providesupport.com^
 ||admin1.cdn.providesupport.com^
+||chat-software.providesupport.com^
 ||chatapi.providesupport.com^
 ||chatapi1.providesupport.com^
 ||chatapi2.providesupport.com^
@@ -68630,6 +68640,7 @@
 ||ds4.providesupport.com^
 ||elk.providesupport.com^
 ||errorreport.providesupport.com^
+||ftp.providesupport.com^
 ||image.providesupport.com^
 ||image-11b.providesupport.com^
 ||image-11i.providesupport.com^
@@ -68714,6 +68725,7 @@
 ||jw9i.providesupport.com^
 ||liveupdate.providesupport.com^
 ||mail.providesupport.com^
+||mailconan.providesupport.com^
 ||messenger.providesupport.com^
 ||messenger1.providesupport.com^
 ||messenger10.providesupport.com^
@@ -68760,7 +68772,9 @@
 ||operator7.providesupport.com^
 ||operator8.providesupport.com^
 ||operator9.providesupport.com^
+||otto.providesupport.com^
 ||prestashop17-test.providesupport.com^
+||rt.providesupport.com^
 ||secure.providesupport.com^
 ||stats.providesupport.com^
 ||stats-api.providesupport.com^
@@ -68785,6 +68799,7 @@
 ||vm7.providesupport.com^
 ||vm8.providesupport.com^
 ||vmcn.providesupport.com^
+||webmail.providesupport.com^
 ||whatever.providesupport.com^
 ||wiki-ss.providesupport.com^
 ||wwvv.providesupport.com^

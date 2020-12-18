@@ -79241,3 +79241,4 @@
 @@||binaryage.com^
 @@||wisecleaner.com^
 @@||translate.google.com^
+||teredo.ipv6.microsoft.com^

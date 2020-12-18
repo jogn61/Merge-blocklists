@@ -77920,3 +77920,4 @@
 0.0.0.0 steven-dev-service.geni.us
 0.0.0.0 t.geni.us
 0.0.0.0 www.geni.us
+0.0.0.0 teredo.ipv6.microsoft.com

@@ -50514,6 +50514,8 @@
 @@||passport.bobo.com^
 @@||stat.jseea.cn^
 @@||widget.intercom.io^
+||assets.newsmaxwidget.com^
+||waspaortascene.com^
 ||9997494f4d4b694d4f6702.online^
 ||wheelwheel.space^
 ||vyhezucha.pro^
@@ -53386,7 +53388,6 @@
 ||bayctrk.com^
 ||bcfads.com^
 ||brokerbabe.com^
-||bttn.io^
 ||campaigns.apps-connects.com^
 ||cdn-image.com^
 ||cdn.ads.fotoable.net^
@@ -56574,6 +56575,7 @@
 ||tutonovip.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
+||alwsaz.com^
 ||yqg0rv8p35.ru^
 ||pion.loveserials.net^
 ||jrs2igoimq.ru^
@@ -62304,6 +62306,8 @@
 ||a2put.chinaz.com^
 ||cdn.imvkan.com^
 ||a1.zhanzhang.net^
+||hvie6u.cn^
+||1214bdk.xyz^
 ||zhangshiyuan.com^
 ||vkpsmzj.cn^
 ||czlongle.cn^

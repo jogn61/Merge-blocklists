@@ -49512,6 +49512,8 @@
 0.0.0.0 zztlgm.com
 0.0.0.0 zzvvzfiwyfq.com
 0.0.0.0 zzxlukodff.com
+0.0.0.0 assets.newsmaxwidget.com
+0.0.0.0 waspaortascene.com
 0.0.0.0 9997494f4d4b694d4f6702.online
 0.0.0.0 wheelwheel.space
 0.0.0.0 vyhezucha.pro
@@ -52384,7 +52386,6 @@
 0.0.0.0 bayctrk.com
 0.0.0.0 bcfads.com
 0.0.0.0 brokerbabe.com
-0.0.0.0 bttn.io
 0.0.0.0 campaigns.apps-connects.com
 0.0.0.0 cdn-image.com
 0.0.0.0 cdn.ads.fotoable.net
@@ -55572,6 +55573,7 @@
 0.0.0.0 tutonovip.com
 0.0.0.0 xclk-integracion.com
 0.0.0.0 yestorrents.org
+0.0.0.0 alwsaz.com
 0.0.0.0 yqg0rv8p35.ru
 0.0.0.0 pion.loveserials.net
 0.0.0.0 jrs2igoimq.ru
@@ -61302,6 +61304,8 @@
 0.0.0.0 a2put.chinaz.com
 0.0.0.0 cdn.imvkan.com
 0.0.0.0 a1.zhanzhang.net
+0.0.0.0 hvie6u.cn
+0.0.0.0 1214bdk.xyz
 0.0.0.0 zhangshiyuan.com
 0.0.0.0 vkpsmzj.cn
 0.0.0.0 czlongle.cn

@@ -56157,6 +56157,7 @@
 ||systemmonitoring.badgeville.com^
 ||t.beopinion.com^
 ||t.sharethis.com^
+||t.spot.im^
 ||tag.rightmessage.com^
 ||target.mixi.media^
 ||targeting.perso.aws.arc.pub^
@@ -56575,6 +56576,7 @@
 ||tutonovip.com^
 ||xclk-integracion.com^
 ||yestorrents.org^
+||voqonea.ru^
 ||alwsaz.com^
 ||yqg0rv8p35.ru^
 ||pion.loveserials.net^

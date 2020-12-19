@@ -55155,6 +55155,7 @@
 0.0.0.0 systemmonitoring.badgeville.com
 0.0.0.0 t.beopinion.com
 0.0.0.0 t.sharethis.com
+0.0.0.0 t.spot.im
 0.0.0.0 tag.rightmessage.com
 0.0.0.0 target.mixi.media
 0.0.0.0 targeting.perso.aws.arc.pub
@@ -55573,6 +55574,7 @@
 0.0.0.0 tutonovip.com
 0.0.0.0 xclk-integracion.com
 0.0.0.0 yestorrents.org
+0.0.0.0 voqonea.ru
 0.0.0.0 alwsaz.com
 0.0.0.0 yqg0rv8p35.ru
 0.0.0.0 pion.loveserials.net

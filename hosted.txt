@@ -68443,6 +68443,7 @@
 ||cdn-cf-metforminwoprescript.polldaddy.com^
 ||cghochberg.polldaddy.com^
 ||clarionledger.polldaddy.com^
+||cms2cms.polldaddy.com^
 ||conforuk.polldaddy.com^
 ||contecoga.polldaddy.com^
 ||coreygriffith97.polldaddy.com^
@@ -68459,6 +68460,7 @@
 ||erumcomthe.polldaddy.com^
 ||faridmitri.polldaddy.com^
 ||files.polldaddy.com^
+||fixtmusic.polldaddy.com^
 ||flecinsterab.polldaddy.com^
 ||foodlovers.polldaddy.com^
 ||fortinetdoc.polldaddy.com^
@@ -68479,6 +68481,7 @@
 ||immobilienscout24.polldaddy.com^
 ||inriogulmu.polldaddy.com^
 ||joncave.polldaddy.com^
+||jules1prast.polldaddy.com^
 ||katebeeders.polldaddy.com^
 ||kpmgrussia.polldaddy.com^
 ||kurikulumpkplkjabar0.polldaddy.com^
@@ -69409,6 +69412,7 @@
 ||binghamton.qualtrics.com^
 ||www.binghamton.qualtrics.com^
 ||bino.qualtrics.com^
+||biogenpa.qualtrics.com^
 ||bizskku.qualtrics.com^
 ||bkfs.qualtrics.com^
 ||blackrock.qualtrics.com^
